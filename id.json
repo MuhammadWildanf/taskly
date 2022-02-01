@@ -47,7 +47,7 @@
     "E-Mail has been not sent due to SMTP configuration": "E-Mail has been not sent due to SMTP configuration",
     "Client Created Successfully!": "Client Created Successfully!",
     "client already exits.": "client already exits.",
-    "Record successfully imported": "Record successfully imported",
+    "Record successfully imported": "Import baris sukses",
     "Record imported fail out of' . ' ' . $totalCustomer . ' ' . 'record": "Record imported fail out of' . ' ' . $totalCustomer . ' ' . 'record",
     "Client Updated Successfully!": "Client Updated Successfully!",
     "Something is wrong.": "Something is wrong.",
